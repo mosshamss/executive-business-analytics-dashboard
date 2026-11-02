@@ -56,3 +56,6 @@ The `.pbix` file is a dashboard prototype. The accompanying report describes a *
 ## Skills demonstrated
 
 `Power BI` · `Business Intelligence` · `KPI Design` · `Data Visualisation` · `DAX Measures` · `Business Requirements Analysis` · `Executive Reporting`
+
+## Author
+Mohamed Hassanien
